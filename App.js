@@ -3,6 +3,7 @@ import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import { Provider as PaperProvider } from "react-native-paper";
 import Lookup from "./components/Lookup.js";
+import Home from "./components/Home.js";
 
 export default function App() {
   return (
