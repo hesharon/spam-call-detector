@@ -7,7 +7,6 @@ import Lookup from "./components/Lookup.js";
 export default function App() {
   return (
     <PaperProvider>
-      <Lookup />
       <StatusBar style="auto" />
     </PaperProvider>
   );
